@@ -13,6 +13,6 @@ public class DemoDocker2Application implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("Test");
+		System.out.println("Test ***");
 	}
 }
